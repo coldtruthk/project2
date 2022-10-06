@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/font/.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/font/abhaya_libre_bold.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/font/abhaya_libre_medium.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/font/adamina.xml" value="0.38153846153846155" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.149609375" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13121652639632747" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout-w936dp/activity_main.xml" value="0.271484375" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_login.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_main1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_main2.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_main3.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/skwls/AndroidStudioProjects/edusungshinOurMoving2/app/src/main/res/layout/activity_main4.xml" value="0.21467391304347827" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
