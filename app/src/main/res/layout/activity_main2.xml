@@ -58,6 +58,7 @@
         android:textSize="20dp" />
 
     <Button
+        android:id="@+id/confirm_button"
         android:layout_width="370dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
